@@ -417,5 +417,6 @@ body {
 .custom-background {
     background-size: cover; /*whole image appears*/
     background-image:  url("images/Alvin_Seminar-30.jpg");
-    background-position: bottom;
+    background-position: 50% 40%;
+    min-height: 400px;
 }
