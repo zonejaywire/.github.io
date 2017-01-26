@@ -1,11 +1,11 @@
-body{
+/*body{
     background-image: url('../images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 20% 20%;
-}
-.container-fluid{
+}*/
+/*.container-fluid{
     margin: 0;
     padding: 0;
 }
@@ -47,4 +47,11 @@ input[type=text].my-input,input[type=email].my-input{
     background-color: #FFA0AC;
     color: white;
     font-weight: bold;
+}*/
+.grey{
+    color: grey;
+}
+
+.background{
+    background-color: black;
 }
